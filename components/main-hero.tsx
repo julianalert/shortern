@@ -72,8 +72,8 @@ export default function MainHero() {
               data-aos="zoom-y-out"
               data-aos-delay={150}
             >
-              Find Clients <br className="max-lg:hidden" />
-              For Your B2B SaaS
+              Find Leads <br className="max-lg:hidden" />
+              From Google Maps
             </h1>
             <div className="mx-auto max-w-3xl">
               <p
